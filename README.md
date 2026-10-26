@@ -1,6 +1,6 @@
 # Blocade
 
-[Скачать APK](https://github.com/murtmarsel/Blocade-Releases/releases/tag/v1.3.1-preview)
+[Скачать APK](https://github.com/murtmarsel/Blocade-Releases/releases/tag/v1.3.2-preview)
 
 Клиент управляемого устройства, Android 7+. Исходники хранятся в отдельном приватном репозитории.
 
